@@ -1,4 +1,4 @@
-# Auto_Coin_trading
+# Auto-Coin-trading
 코인 자동매매 프로그램
 
 

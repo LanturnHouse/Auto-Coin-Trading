@@ -1,0 +1,6 @@
+Cogs_path: COG_PATH
+bot_status: 코인 자동거래 보고중...
+bot_token: YOUR_BOT_TOKEN
+log_channel: LOG_CHANNEL_ID
+status_message_id_1: STATUS_MESSAGE_ID_1
+status_message_id_2: STATUS_MESSAGE_ID_2

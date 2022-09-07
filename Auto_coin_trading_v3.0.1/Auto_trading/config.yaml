@@ -1,0 +1,5 @@
+access: PYUPBIT_ACCESS_KEY
+active: true
+coin_type: KRW-SAND
+funds: 150000.0
+secret: PYUPBIT_SECRET_KEY
